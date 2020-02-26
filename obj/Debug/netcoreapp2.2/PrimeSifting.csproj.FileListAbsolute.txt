@@ -1,0 +1,11 @@
+/Users/Guest/Desktop/projects/PrimeSifting.Solution/primesifting/obj/Debug/netcoreapp2.2/PrimeSifting.csprojAssemblyReference.cache
+/Users/Guest/Desktop/projects/PrimeSifting.Solution/primesifting/obj/Debug/netcoreapp2.2/PrimeSifting.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/projects/PrimeSifting.Solution/primesifting/obj/Debug/netcoreapp2.2/PrimeSifting.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/projects/PrimeSifting.Solution/primesifting/obj/Debug/netcoreapp2.2/PrimeSifting.AssemblyInfo.cs
+/Users/Guest/Desktop/projects/PrimeSifting.Solution/primesifting/bin/Debug/netcoreapp2.2/PrimeSifting.deps.json
+/Users/Guest/Desktop/projects/PrimeSifting.Solution/primesifting/bin/Debug/netcoreapp2.2/PrimeSifting.runtimeconfig.json
+/Users/Guest/Desktop/projects/PrimeSifting.Solution/primesifting/bin/Debug/netcoreapp2.2/PrimeSifting.runtimeconfig.dev.json
+/Users/Guest/Desktop/projects/PrimeSifting.Solution/primesifting/bin/Debug/netcoreapp2.2/PrimeSifting.dll
+/Users/Guest/Desktop/projects/PrimeSifting.Solution/primesifting/bin/Debug/netcoreapp2.2/PrimeSifting.pdb
+/Users/Guest/Desktop/projects/PrimeSifting.Solution/primesifting/obj/Debug/netcoreapp2.2/PrimeSifting.dll
+/Users/Guest/Desktop/projects/PrimeSifting.Solution/primesifting/obj/Debug/netcoreapp2.2/PrimeSifting.pdb
